@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I'm currently working on the Growth Virality Team
+- 👨‍💻 Doing primarily Android + Web work
+- 💬 Let's chat about road biking, good books, and hackathons
+- 📬 You can contact me aadesara@nextdoor.com 
+- 🎉 Fun Fact: I play the harmonica (not well tho) 
+
 <!--
 **aadesara/aadesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
