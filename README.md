@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aakash 👋
 
 - 🌱 I'm currently working on the Growth Virality Team
 - 👨‍💻 Doing primarily Android + Web work
