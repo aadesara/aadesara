@@ -3,7 +3,7 @@
 - 🌱 I'm currently working on the Growth Virality Team
 - 👨‍💻 Doing primarily Android + Web work
 - 💬 Let's chat about road biking, good books, and hackathons
-- 📬 You can contact me aadesara@nextdoor.com 
+- 📬 You can contact me at aadesara@nextdoor.com 
 - 🎉 Fun Fact: I play the harmonica (not well tho) 
 
 <!--
